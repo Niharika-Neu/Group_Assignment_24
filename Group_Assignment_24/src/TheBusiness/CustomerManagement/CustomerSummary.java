@@ -9,7 +9,7 @@ import TheBusiness.OrderManagement.Order;
 
 /**
  *
- * @author kal bugrara
+ * @author uday
  */
 public class CustomerSummary {
     CustomerProfile customer;

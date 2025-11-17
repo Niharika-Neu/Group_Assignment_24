@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author kal bugrara
+ * @author uday
  */
 public class CustomerDirectory {
 

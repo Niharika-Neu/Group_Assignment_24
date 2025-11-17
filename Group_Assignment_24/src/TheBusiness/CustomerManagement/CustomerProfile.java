@@ -13,7 +13,7 @@ import TheBusiness.Personnel.Profile;
 
 /**
  *
- * @author kal bugrara
+ * @author uday
  */
 public class CustomerProfile extends Profile {
 
