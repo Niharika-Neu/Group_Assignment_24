@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author kal bugrara
+ * @author meghana
  */
 public class MasterSolutionOrderList {
         ArrayList<SolutionOrder> solutionorderlist;
